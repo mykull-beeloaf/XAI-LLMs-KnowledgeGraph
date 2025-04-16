@@ -58,5 +58,3 @@ LAMA - https://github.com/taylorshin/LAMA/tree/master
 
 LLM-facteval - https://github.com/RManLuo/llm-facteval/tree/master
 
-# Dataset
-The dataset will take about 85 MB of space. You can download the dataset here {https://drive.google.com/file/d/1CcjpmNuAXavL3aMjwVqiiziMu3OGDyyG/view}.
